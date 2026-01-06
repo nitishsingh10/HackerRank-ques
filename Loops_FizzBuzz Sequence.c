@@ -1,3 +1,5 @@
+// This is fizzbuzz problem where according to the condition we must print the output
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
