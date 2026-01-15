@@ -1,3 +1,7 @@
+//question
+
+//write a program to check if a person is eligible to vote or not
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
