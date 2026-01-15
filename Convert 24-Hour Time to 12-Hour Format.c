@@ -1,3 +1,7 @@
+//question 
+
+// conver the time given in 24 hour format to 12 hour format
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
